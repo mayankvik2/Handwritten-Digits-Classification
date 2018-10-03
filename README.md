@@ -1,4 +1,3 @@
-Handwritten-Digits-Classification 
 Handwritten-Digits-Classification of Optical Character Recognition using HOG + SVM.Following below steps followed for buliding pipleline of opencv image classification
  
 Step1:Preprocessing
