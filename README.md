@@ -23,7 +23,7 @@ Parameter used in SVM training:
 
 Results:
 
-After training and some hyperparameter optimization, classifier hit 98.6% accuracy on digits classification.
+After training and some hyperparameter optimization, classifier hit 99.0% accuracy on digits classification.
 
 
    
